@@ -7,4 +7,7 @@ it is made by HTML, CSS, JAVASCRIPT.
 - Simple navigation
 - Mobile friendly
 
+#How To view
+Click here - (https://sanskritigupta312-jpg.github.io/Tic-Tac-Toe/)
+
 
